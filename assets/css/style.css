@@ -204,7 +204,7 @@ a:hover {
 
 /*------/ Socials /------*/
 .socials {
-  padding-left: 20rem;
+  padding: 1.5rem 0;
 }
 .socials ul li {
   display: inline-block;
